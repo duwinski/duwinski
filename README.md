@@ -1,0 +1,4 @@
+- 👋 Oi, Eu sou @duwinski
+- - 🙂 Estou interessado em programação 
+- - 🌱 Estou aprendendo linguagens de programação
+-  - 💞️ Estou procurando colaborar 
